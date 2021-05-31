@@ -7,6 +7,9 @@
     "chalk": "^4.1.1",
     "prompt-sync": "^4.2.0"
   },
+  "bin": {
+    "annoyance": "cli.js"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
