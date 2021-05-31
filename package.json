@@ -1,7 +1,7 @@
 {
   "name": "annoyance",
   "version": "1.0.0",
-  "description": "This is a simple code for a simple js trolling your friends by replacing ; with greek question mark ;",
+  "description": "This is a simple code for a simple js trolling your friends by replacing ; with greek question mark ; (Disclaimer: I take no responsibility for any harm caused by this prank. Have fun!)",
   "main": "App.js",
   "dependencies": {
     "chalk": "^4.1.1",

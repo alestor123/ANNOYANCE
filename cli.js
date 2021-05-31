@@ -4,6 +4,9 @@ const prompt = require('prompt-sync')()
 const paths = require('./App')
 const chalk = require('chalk')
 
+// https://stackoverflow.com/questions/26965331/javascript-prank-joke
+// Disclaimer: I take no responsibility for any harm caused by this prank. Have fun!
+
 if (process.argv[2] === '-r') {
   paths('./', ';', ';')
   console.log(chalk.greenBright.bold('Done !! 😇'))
