@@ -1,2 +1,2 @@
 const paths = require('./App')
-paths('./', ';', ';')
+paths('./', ';', ';')
