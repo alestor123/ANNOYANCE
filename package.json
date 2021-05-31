@@ -1,0 +1,24 @@
+{
+  "name": "annoyance",
+  "version": "1.0.0",
+  "description": "This is a simple code for a simple js trolling your friends by replacing ; with greek question mark ;",
+  "main": "App.js",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/ANNOY.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/ANNOY/issues"
+  },
+  "homepage": "https://github.com/alestor123/ANNOY#readme"
+}
